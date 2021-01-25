@@ -8,5 +8,6 @@ public class HelloGit {
 
         System.out.println("创建分支");
         System.out.println("master add");
+        System.out.println("other branch add ");
     }
 }
