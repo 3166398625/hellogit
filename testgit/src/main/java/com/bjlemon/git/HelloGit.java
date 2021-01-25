@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("master add");
         System.out.println("other branch add ");
         System.out.println("online edit ");
+        System.out.println("ssh test");
     }
 }
